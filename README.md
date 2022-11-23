@@ -1,6 +1,6 @@
 # AnimeCharcters
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
+This project was developed using angular cli for understanding the concepts of binding.
 
 ## Development server
 
