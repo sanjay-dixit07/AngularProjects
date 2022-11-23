@@ -1,0 +1,16 @@
+<body>
+    <form #gfg = "ngForm">
+      
+        <br>
+        <br>
+        
+        Name: <input id="anime" type="text" name = 'name'  [(ngModel)]="anime">
+        <button (click)="searchForUser()">submit</button><br>
+        {{nameser}}
+        <div [innerHTML]="imgsrc"></div>
+        {{info}}
+        
+        
+      </form>
+      
+</body>
